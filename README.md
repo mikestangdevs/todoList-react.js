@@ -1,3 +1,3 @@
 ## First react.js app: A simple to do list
 
-![Snapshot](/assets/snapshot.png "Snapshot of App)
+![Snapshot](/assets/snapshot.png "Snapshot of App")
